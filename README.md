@@ -1,78 +1,40 @@
-# Godot Engine
-
-<p align="center">
-  <a href="https://godotengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-godot-engine" class="anchor" aria-hidden="true" tabindex="-1" href="#godot-engine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">戈多引擎</font></font></h1>
+<p align="center" dir="auto">
+  <a href="https://godotengine.org" rel="nofollow">
+    <img src="/godotengine/godot/raw/master/logo_outlined.svg" width="400" alt="戈多引擎标志" style="max-width: 100%;">
   </a>
 </p>
-
-## 2D and 3D cross-platform game engine
-
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
-game engine to create 2D and 3D games from a unified interface.** It provides a
-comprehensive set of [common tools](https://godotengine.org/features), so that
-users can focus on making games without having to reinvent the wheel. Games can
-be exported with one click to a number of platforms, including the major desktop
-platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as
-Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutorials/platform/consoles.html).
-
-## Free, open source and community-driven
-
-Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
-No strings attached, no royalties, nothing. The users' games are theirs, down
-to the last line of engine code. Godot's development is fully independent and
-community-driven, empowering users to help shape their engine to match their
-expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
-not-for-profit.
-
-Before being open sourced in [February 2014](https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
-Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
-[Ariel Manzur](https://github.com/punto-) (both still maintaining the project)
-for several years as an in-house engine, used to publish several work-for-hire
-titles.
-
-![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
-
-## Getting the engine
-
-### Binary downloads
-
-Official binaries for the Godot editor and the export templates can be found
-[on the Godot website](https://godotengine.org/download).
-
-### Compiling from source
-
-[See the official docs](https://docs.godotengine.org/en/latest/contributing/development/compiling)
-for compilation instructions for every supported platform.
-
-## Community and contributing
-
-Godot is not only an engine but an ever-growing community of users and engine
-developers. The main community channels are listed [on the homepage](https://godotengine.org/community).
-
-The best way to get in touch with the core engine developers is to join the
-[Godot Contributors Chat](https://chat.godotengine.org).
-
-To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
-This document also includes guidelines for reporting bugs.
-
-## Documentation and demos
-
-The official documentation is hosted on [Read the Docs](https://docs.godotengine.org).
-It is maintained by the Godot community in its own [GitHub repository](https://github.com/godotengine/godot-docs).
-
-The [class reference](https://docs.godotengine.org/en/latest/classes/)
-is also accessible from the Godot editor.
-
-We also maintain official demos in their own [GitHub repository](https://github.com/godotengine/godot-demo-projects)
-as well as a list of [awesome Godot community resources](https://github.com/godotengine/awesome-godot).
-
-There are also a number of other
-[learning resources](https://docs.godotengine.org/en/latest/community/tutorials.html)
-provided by the community, such as text and video tutorials, demos, etc.
-Consult the [community channels](https://godotengine.org/community)
-for more information.
-
-[![Code Triagers Badge](https://www.codetriage.com/godotengine/godot/badges/users.svg)](https://www.codetriage.com/godotengine/godot)
-[![Translate on Weblate](https://hosted.weblate.org/widgets/godot-engine/-/godot/svg-badge.svg)](https://hosted.weblate.org/engage/godot-engine/?utm_source=widget)
-[![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/godotengine/godot)](https://www.tickgit.com/browse?repo=github.com/godotengine/godot)
+<h2 tabindex="-1" dir="auto"><a id="user-content-2d-and-3d-cross-platform-game-engine" class="anchor" aria-hidden="true" tabindex="-1" href="#2d-and-3d-cross-platform-game-engine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2D和3D跨平台游戏引擎</font></font></h2>
+<p dir="auto"><strong><a href="https://godotengine.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Godot Engine</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一款功能丰富的跨平台游戏引擎，可通过统一的界面创建 2D 和 3D 游戏。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它提供了一套全面的</font></font><a href="https://godotengine.org/features" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常用工具</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，让用户可以专注于制作游戏，而不必重新发明轮子。</font><font style="vertical-align: inherit;">游戏可以一键导出到多个平台，包括主要桌面平台（Linux、macOS、Windows）、移动平台（Android、iOS）以及基于 Web 的平台和</font></font><a href="https://docs.godotengine.org/en/latest/tutorials/platform/consoles.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">控制台</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-free-open-source-and-community-driven" class="anchor" aria-hidden="true" tabindex="-1" href="#free-open-source-and-community-driven"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费、开源和社区驱动</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://godotengine.org/license" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Godot 在非常宽松的MIT 许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下是完全免费和开源的</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">没有任何附加条件，没有版税，什么都没有。</font><font style="vertical-align: inherit;">用户的游戏是他们的，直到最后一行引擎代码。</font><font style="vertical-align: inherit;">Godot 的开发完全独立且由社区驱动，使用户能够帮助塑造他们的引擎以满足他们的期望。</font><font style="vertical-align: inherit;">
+它由非盈利</font></font><a href="https://godot.foundation/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">组织戈多基金会</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在2014 年 2 月</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源之前</font><font style="vertical-align: inherit;">，Godot 已由</font></font><a href="https://github.com/reduz"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Juan Linietsky</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和
+</font></font><a href="https://github.com/punto-"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&ZeroWidthSpace;&ZeroWidthSpace;Ariel Manzur</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（两人仍在维护该项目）作为内部引擎开发了几年，用于发布多个雇佣作品。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg"><img src="https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg" alt="Godot 引擎编辑器中 3D 场景的屏幕截图" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-getting-the-engine" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-the-engine"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取引擎</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-binary-downloads" class="anchor" aria-hidden="true" tabindex="-1" href="#binary-downloads"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二进制下载</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://godotengine.org/download" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Godot 编辑器的官方二进制文件和导出模板可以在 Godot 网站上</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">找到
+</font><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-compiling-from-source" class="anchor" aria-hidden="true" tabindex="-1" href="#compiling-from-source"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从源代码编译</font></font></h3>
+<p dir="auto"><a href="https://docs.godotengine.org/en/latest/contributing/development/compiling" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+有关每个受支持平台的编译说明，</font><a href="https://docs.godotengine.org/en/latest/contributing/development/compiling" rel="nofollow"><font style="vertical-align: inherit;">请参阅官方文档。</font></a></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-community-and-contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#community-and-contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区和贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Godot 不仅是一个引擎，而且是一个不断增长的用户和引擎开发人员社区。</font><font style="vertical-align: inherit;">主要的社区频道列</font></font><a href="https://godotengine.org/community" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在主页上</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与核心引擎开发人员取得联系的最佳方式是加入
+</font></font><a href="https://chat.godotengine.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Godot 贡献者聊天室</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要开始为该项目做出贡献，请参阅</font></font><a href="/godotengine/godot/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">本文档还包括报告错误的指南。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-documentation-and-demos" class="anchor" aria-hidden="true" tabindex="-1" href="#documentation-and-demos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档和演示</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方文档托管在</font></font><a href="https://docs.godotengine.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Read the Docs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上。</font></font><a href="https://github.com/godotengine/godot-docs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它由 Godot 社区在其自己的GitHub 存储库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中维护</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">类</font></font><a href="https://docs.godotengine.org/en/latest/classes/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">参考</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+也可以从 Godot 编辑器访问。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/godotengine/godot-demo-projects"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们还在他们自己的GitHub 存储库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中维护官方演示</font><font style="vertical-align: inherit;">
+以及一系列</font></font><a href="https://github.com/godotengine/awesome-godot"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的 Godot 社区资源</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+社区</font><font style="vertical-align: inherit;">还提供了许多其他
+</font></font><a href="https://docs.godotengine.org/en/latest/community/tutorials.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习资源，例如文字和视频教程、演示等。请咨询</font></font></a><font style="vertical-align: inherit;"></font><a href="https://godotengine.org/community" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区渠道</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+以获取更多信息。</font></font></p>
+<p dir="auto"><a href="https://www.codetriage.com/godotengine/godot" rel="nofollow"><img src="https://camo.githubusercontent.com/c8549199ffdaa7dfb794ac2dc76815781fd072c8c45dd8358ee1610458212835/68747470733a2f2f7777772e636f64657472696167652e636f6d2f676f646f74656e67696e652f676f646f742f6261646765732f75736572732e737667" alt="代码分类器徽章" data-canonical-src="https://www.codetriage.com/godotengine/godot/badges/users.svg" style="max-width: 100%;"></a>
+<a href="https://hosted.weblate.org/engage/godot-engine/?utm_source=widget" rel="nofollow"><img src="https://camo.githubusercontent.com/d0a77456ae57bfe9ea05321088fc1d26c4253295efc5bd7ac70a0754af9ecfe5/68747470733a2f2f686f737465642e7765626c6174652e6f72672f776964676574732f676f646f742d656e67696e652f2d2f676f646f742f7376672d62616467652e737667" alt="在 Weblate 上翻译" data-canonical-src="https://hosted.weblate.org/widgets/godot-engine/-/godot/svg-badge.svg" style="max-width: 100%;"></a>
+<a href="https://www.tickgit.com/browse?repo=github.com/godotengine/godot" rel="nofollow"><img src="https://camo.githubusercontent.com/814dadcb9172d701e1884a9e381ed9a9c97b83354924f0cdf9b994d4371557f5/68747470733a2f2f62616467656e2e6e65742f68747470732f6170692e7469636b6769742e636f6d2f62616467656e2f6769746875622e636f6d2f676f646f74656e67696e652f676f646f74" alt="待办事项" data-canonical-src="https://badgen.net/https/api.tickgit.com/badgen/github.com/godotengine/godot" style="max-width: 100%;"></a></p>
+</article></div>
